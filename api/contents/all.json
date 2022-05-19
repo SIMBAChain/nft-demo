@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-05-19T11:38:39.831987Z",
+      "created": "2022-05-19T11:38:36.574478Z",
       "format": null,
-      "last_modified": "2022-05-19T11:37:19.291973Z",
+      "last_modified": "2022-05-19T11:37:31.623428Z",
       "mimetype": null,
       "name": "simba-nft.ipynb",
       "path": "simba-nft.ipynb",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2022-05-19T11:38:39.827987Z",
+      "created": "2022-05-19T11:38:36.574478Z",
       "format": null,
-      "last_modified": "2022-05-19T11:37:19.291973Z",
+      "last_modified": "2022-05-19T11:37:31.623428Z",
       "mimetype": null,
       "name": "javascript.ipynb",
       "path": "javascript.ipynb",
@@ -26,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2022-05-19T11:38:39.831987Z",
+      "created": "2022-05-19T11:38:36.574478Z",
       "format": null,
-      "last_modified": "2022-05-19T11:37:19.291973Z",
+      "last_modified": "2022-05-19T11:37:31.623428Z",
       "mimetype": null,
       "name": "p5.ipynb",
       "path": "p5.ipynb",
@@ -38,21 +38,9 @@
     },
     {
       "content": null,
-      "created": "2022-05-19T11:38:39.831987Z",
+      "created": "2022-05-19T11:38:36.574478Z",
       "format": null,
-      "last_modified": "2022-05-19T11:37:19.291973Z",
-      "mimetype": null,
-      "name": "python.ipynb",
-      "path": "python.ipynb",
-      "size": 12962,
-      "type": "notebook",
-      "writable": true
-    },
-    {
-      "content": null,
-      "created": "2022-05-19T11:38:39.827987Z",
-      "format": null,
-      "last_modified": "2022-05-19T11:38:37.703987Z",
+      "last_modified": "2022-05-19T11:38:34.918505Z",
       "mimetype": "text/markdown",
       "name": "README.md",
       "path": "README.md",
@@ -61,9 +49,9 @@
       "writable": true
     }
   ],
-  "created": "2022-05-19T11:38:39.831987Z",
+  "created": "2022-05-19T11:38:36.574478Z",
   "format": "json",
-  "last_modified": "2022-05-19T11:38:39.831987Z",
+  "last_modified": "2022-05-19T11:38:36.574478Z",
   "mimetype": null,
   "name": "",
   "path": "",
